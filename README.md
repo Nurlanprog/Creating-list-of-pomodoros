@@ -6,7 +6,7 @@ Input variables: <br />
 2) Starting minute (integer)<br />
 3) Ending hour (integer)<br />
 
-Pomodoros will look something like this:<br />
+Pomodoros list will look something like this:<br />
 6:00 - 6:25<br />
 6:30 - 6:55<br />
 7:00 - 7:25<br />
