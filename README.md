@@ -2,7 +2,7 @@
 Project of generating list of pomodoros. Pomodoro helps for improving productivity and focus.
 
 Pomodoros list will look like this:
-6:00 - 6:25
+6:00 - 6:25\n
 6:30 - 6:55
 7:00 - 7:25
 7:30 - 7:55
