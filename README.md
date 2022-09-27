@@ -1,5 +1,5 @@
 # Creating-list-of-pomodoros
-Project of generating list of pomodoros. Pomodoro helps for improving productivity and focus.
+Project of generating list of pomodoros. In project implemented short rest(5 minute) and long rest(15 minute). Pomodoro helps for improving productivity and focus.
 
 Pomodoros list will look like this:
 6:00 - 6:25<br />
